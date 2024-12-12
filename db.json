@@ -1,14 +1,67 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Cubo Mágico 3x3",
+      "descricao": "O cubo mágico tradicional 3x3x3 é perfeito para iniciantes e competidores.",
+      "imagem": "https://st.depositphotos.com/18211910/51621/i/600/depositphotos_516213598-stock-photo-beginning-rubik-cube-puzzle-cube.jpg",
+      "preco": 29.99
+    },
+    {
+      "id": "2",
+      "nome": "Cubo Mágico 2x2",
+      "descricao": "Também conhecidos como cubos pocket, para resolução rápida e fácil.",
+      "imagem": "https://st3.depositphotos.com/13916902/18441/i/600/depositphotos_184415354-stock-photo-cube-rubik-for-children.jpg",
+      "preco": 19.99
+    },
+    {
+      "id": "3",
+      "nome": "Cubo Mágico Pyraminx",
+      "descricao": "Possuem formato de pirâmide, para entusiastas que buscam algo diferente.",
+      "imagem": "https://st3.depositphotos.com/6105212/17283/i/600/depositphotos_172837908-stock-photo-rubik-cube-white-wooden-background.jpg",
+      "preco": 39.99
+    },
+    {
+      "id": "4",
+      "nome": "Cubo Mágico Mirror",
+      "descricao": "Cubos mágicos Mirror, com peças de tamanhos variados, oferecendo uma experiência única de resolução.",
+      "imagem": "https://st4.depositphotos.com/6273794/23581/i/600/depositphotos_235817920-stock-photo-men-hands-holding-magic-mirror.jpg",
+      "preco": 34.99
+    },
+    {
+      "id": "5",
+      "nome": "Cubo Mágico Megaminx",
+      "descricao": "Cubo com 12 lados, proporcionando um desafio complexo e diferente.",
+      "imagem": "https://st3.depositphotos.com/24759012/35297/i/600/depositphotos_352972942-stock-photo-rubik-twelve-sides-cube-solved.jpg",
+      "preco": 79.99
+    },
+    {
+      "id": "6",
+      "nome": "Cubo Mágico 4x4",
+      "descricao": "Cubo mágico 4x4x4 para desafios mais avançados, exigindo mais habilidades de resolução.",
+      "imagem": "https://static8.depositphotos.com/1324688/896/i/600/depositphotos_8968600-stock-photo-rubiks-cube-4x4.jpg",
+      "preco": 45
+    },
+    {
+      "id": "7",
+      "nome": "Cubo Mágico 5x5",
+      "descricao": "Cubo mágico 5x5x5, também conhecido como Professor's Cube, para quem busca um desafio maior.",
+      "imagem": "https://st3.depositphotos.com/33052172/35408/i/600/depositphotos_354085556-stock-photo-multi-colored-cube-white-background.jpg",
+      "preco": 60
+    },
+    {
+      "id": "8",
+      "nome": "Cubo Mágico 7x7",
+      "descricao": "Cubo 7x7x7, um dos maiores desafios de cubos mágicos, ideal para competidores experientes.",
+      "imagem": "https://st2.depositphotos.com/43872556/43707/i/600/depositphotos_437073490-stock-photo-colorful-cube-isolated-white.jpg",
+      "preco": 60
+    },
+    {
+      "id": "9",
+      "nome": "Cubo Mágico Skewb",
+      "descricao": "Cubo de rotação de eixo diferente, proporcionando um desafio novo e interessante.",
+      "imagem": "https://st3.depositphotos.com/1003440/18601/i/600/depositphotos_186011048-stock-photo-conundrum.jpg",
+      "preco": 50
+    }
+  ]
 }
